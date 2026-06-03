@@ -21,7 +21,7 @@ Desenvolvimento de uma plataforma de gerenciamento interno que permite aos colab
 
 ### REPOSITÓRIO
 
-[Repositorio projeto 2025-2 LegacyTech](https://github.com/LegacyTec/Documentacaol)
+[Repositorio projeto 2025-2 LegacyTech](https://github.com/LegacyTec/Documentacao)
 
 ### TECNOLOGIAS
 
