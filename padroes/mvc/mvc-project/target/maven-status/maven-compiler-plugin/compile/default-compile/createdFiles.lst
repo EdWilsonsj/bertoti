@@ -1,0 +1,10 @@
+com\example\controller\ListaController.class
+com\example\Main.class
+com\example\model\ListaModel.class
+com\example\controller\AdicionarStrategy.class
+com\example\controller\RemoverStrategy.class
+com\example\view\ListaView.class
+com\example\model\Subject.class
+com\example\model\Produto.class
+com\example\model\Obs.class
+com\example\controller\AcaoStrategy.class
